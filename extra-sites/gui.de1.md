@@ -1,5 +1,6 @@
 Hello! Today I will be teaching you how to use smash ultimate (switch) mods. First you need a Atmosphere Modded Switch I am not sure if these work on Yuzu Emulator fyi. <br />
 First you will need these: <a href="https://gamebanana.com/tools/6865">Mod Manager </a> and <a href="https://github.com/Raytwo/ARCropolis/">Mod Loader </a> <br />
+Extact the mod manager and mod loader to the root of the sd card (the main page, not in any folder or file) <br />
 Alright, now you will get mods on <a href="https://gamebanana.com/games/6498">get mods here </a>. <br />
 So, open it and if you have multiple folders, create a folder for your mod and throw all the multiple folders in the new folder you created. Skip to line 10 <br />
 Or, if you have a folder that says your mod, your good. Skip to line 10 <br />
