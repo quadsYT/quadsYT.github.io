@@ -1,4 +1,4 @@
-# Hey, so welcome... Will be uploading things lol <br />
+## Hey, so welcome... Will be uploading things lol <br />
 md files are the best /srs <br />
 Anyways, check this out <a href="https://quadsYT.github.io/extra-sites/schoolwiiu">School WiiU</a> <br />
 Heres my guides: <a href="https://quadsYT.github.io/guides">Guides </a> <br />
