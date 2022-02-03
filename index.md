@@ -73,7 +73,7 @@ md files are the best /srs <br />
 Anyways, check this out <a href="https://quadsYT.github.io/extra-sites/schoolwiiu">School WiiU</a> <br />
 Heres my guides: <a href="https://quadsYT.github.io/guides">Guides </a> <br />
 haxx websites: <a href="https://is.gd/TL9i0I">WiiUHAX </a> <a href="quadsYT.github.io/extra-sites/3dsqrscanner">3DSQR </a> <br />
-## thanks for checking this out <a href="https://imgbb.com/"><img src="https://i.ibb.co/gz1JV2x/Blobmelt.png" alt="Blobmelt" border="0"></a> <br />
+## thanks for checking this out <img src="https://i.ibb.co/gz1JV2x/Blobmelt.png" alt="Blobmelt" border="0"></a> <br />
 <br />
 <br />
 <br />
